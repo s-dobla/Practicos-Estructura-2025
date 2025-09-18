@@ -4,8 +4,9 @@ public class Nodo<T> {
     T dato;
     Nodo<T> next;
 
-    public Nodo ()
+    public Nodo (T dato)
     {
-        this.T
+        this.dato = dato;
+        this.next = null;
     }
 }

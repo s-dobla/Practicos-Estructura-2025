@@ -1,4 +1,4 @@
-package Practico2.tads;
+package Practico2.tads.Ejercicio2;
 
 import java.util.LinkedList;
 import java.util.Random;

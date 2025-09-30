@@ -1,0 +1,85 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Empresa",
+            "request": "launch",
+            "mainClass": "Empresa",
+            "projectName": "PROYECTOS-2025-Estructura de Datos I_1827eb93"
+        },
+        {
+            "type": "java",
+            "name": "Estudiante",
+            "request": "launch",
+            "mainClass": "Estudiante",
+            "projectName": "PROYECTOS-2025-Estructura de Datos I_1827eb93"
+        },
+        {
+            "type": "java",
+            "name": "Greating",
+            "request": "launch",
+            "mainClass": "Greating",
+            "projectName": "PROYECTOS-2025-Estructura de Datos I_1827eb93"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "PROYECTOS-2025-Estructura de Datos I_1827eb93"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld1",
+            "request": "launch",
+            "mainClass": "HelloWorld1",
+            "projectName": "PROYECTOS-2025-Estructura de Datos I_1827eb93"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "PROYECTOS-2025-Estructura de Datos I_1827eb93"
+        },
+        {
+            "type": "java",
+            "name": "Main2",
+            "request": "launch",
+            "mainClass": "Main2",
+            "projectName": "PROYECTOS-2025-Estructura de Datos I_1827eb93"
+        },
+        {
+            "type": "java",
+            "name": "Main3",
+            "request": "launch",
+            "mainClass": "Main3",
+            "projectName": "PROYECTOS-2025-Estructura de Datos I_1827eb93"
+        },
+        {
+            "type": "java",
+            "name": "MedicionesTemperaturasTest",
+            "request": "launch",
+            "mainClass": "MedicionesTemperaturasTest",
+            "projectName": "PROYECTOS-2025-Estructura de Datos I_1827eb93"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "PROYECTOS-2025-Estructura de Datos I_1827eb93"
+        }
+    ]
+}

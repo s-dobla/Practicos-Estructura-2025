@@ -1,0 +1,13 @@
+-- zeros a 0 = True - Primer Caso
+-- zeros a n = zeros a (n-1) && (a !! (n-1)) == 0 
+--             zeros a (n-1) Segundo Caso   
+--             
+-- (a !! (n-1)) == 0 //El resto de consultas cuando se llega el caso cero.
+--
+--
+-- Haskell cuando uno de los operando, una vez que te da falso, 
+-- entonces es falso y corta ahi.
+-- Porque es perezoso.
+-- 
+--
+--

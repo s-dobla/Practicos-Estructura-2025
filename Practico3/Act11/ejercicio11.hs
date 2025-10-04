@@ -1,4 +1,5 @@
--- Tipo de la función: toma una lista de números (donde 'a' pertenece a la clase Num)
+-- Tipo de la función: toma una lista de números 
+-- (donde 'a' pertenece a la clase Num)
 -- y retorna un único número del mismo tipo.
 -- //sumaLista :: Num a => [a] -> a
 -- Caso base: La suma de una lista vacía ( [] ) es cero.
